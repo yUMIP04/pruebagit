@@ -1,0 +1,1 @@
+{'total_frases': 6, 'total_palabras': 6, 'palabras_unicas': {'ondaaaaa', '123', '34973473', 'hiiii', 'holaaaa', 'que'}, 'numeros': [123, 34973473], 'numero_max': 34973473, 'numero_min': 123, 'Promedio_de_numeros': 17486798.0, 'palabra_mas_larga': '34973473'}
